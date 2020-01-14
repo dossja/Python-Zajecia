@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.960
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Calendar", "Calendar\Calendar.pyproj", "{650F97F8-AAE7-4367-9906-E3EFCEBB3A20}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SplitJoin", "SplitJoin\SplitJoin.pyproj", "{9C7D24D6-069A-4D54-8821-F24293DE3F9B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,8 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{650F97F8-AAE7-4367-9906-E3EFCEBB3A20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{650F97F8-AAE7-4367-9906-E3EFCEBB3A20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C7D24D6-069A-4D54-8821-F24293DE3F9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C7D24D6-069A-4D54-8821-F24293DE3F9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
